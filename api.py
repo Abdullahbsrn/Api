@@ -14,3 +14,5 @@ wind_speed = data['wind']['speed']
 
 print('Temperature : ',temp)
 print('Wind Speed : ',wind_speed)
+
+dkjk
